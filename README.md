@@ -1,3 +1,4 @@
 # Personal Portfolio
 
-https://rajatboss.github.io/PersonalPortfolio/ 
+https://rajatpachauri.github.io/PersonalPortfolio/ 
+https://github.com/rajatpachauri/
